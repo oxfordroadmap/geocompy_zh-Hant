@@ -1,5 +1,6 @@
 project:
   type: book
+  # see GitHub Pages (publishing) https://quarto.org/docs/publishing/github-pages.html
   output-dir: docs
 
 book:
